@@ -1,0 +1,279 @@
+{
+ "format": "cutview.pack-catalog",
+ "version": 1,
+ "packs": [
+  {
+   "id": "animations-entree-sortie",
+   "name": "Animations d'entrée et de sortie",
+   "description": "13 entrées et 13 sorties : fondu, zooms, glissés, rebond, rotation, flou… L'entrée se cale toujours au début du plan, la sortie toujours à sa fin.",
+   "version": "1.0.0",
+   "kind": "animations",
+   "tabs": [
+    "animations"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/animations-entree-sortie-1.0.0.zip",
+   "size": 21076,
+   "sha256": "afb1b55d9d97b6d821c563949c9ecbc0bc0ddb5bfc3b638095af302431225bc3",
+   "license": "CC0-1.0",
+   "author": "Alex NGASSA",
+   "items": 26
+  },
+  {
+   "id": "musiques-ceremonies",
+   "name": "Musiques – Mariage, anniversaire et cérémonie",
+   "description": "Marches nuptiales et classiques du mariage, airs d'anniversaire, pièces solennelles et religieuses.",
+   "version": "1.0.0",
+   "kind": "audio",
+   "tabs": [
+    "audio"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/musiques-ceremonies-1.0.0.zip",
+   "size": 30891216,
+   "sha256": "c646d3023d86571bd1fbb3d69c689ebfd64dec810956b9a3d9aa9265410a33b1",
+   "license": "CC0-1.0 / Public domain (selon l'élément)",
+   "author": "Alex NGASSA",
+   "items": 10
+  },
+  {
+   "id": "musiques-emotion-suspense",
+   "name": "Musiques – Émotion, suspense et comédie",
+   "description": "Pièces douces et émouvantes, tension et suspense, musiques comiques et sautillantes.",
+   "version": "1.0.0",
+   "kind": "audio",
+   "tabs": [
+    "audio"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/musiques-emotion-suspense-1.0.0.zip",
+   "size": 32933547,
+   "sha256": "dadd3299af6891088b8119a835822cd23abbe15f1ed627cfe9c35d0455ad21ad",
+   "license": "CC0-1.0 / Public domain (selon l'élément)",
+   "author": "Alex NGASSA",
+   "items": 12
+  },
+  {
+   "id": "musiques-energie-fete",
+   "name": "Musiques – Sport, fête et percussions",
+   "description": "Musiques d'énergie pour le sport, de fête et rythmes de percussions d'inspiration africaine.",
+   "version": "1.0.0",
+   "kind": "audio",
+   "tabs": [
+    "audio"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/musiques-energie-fete-1.0.0.zip",
+   "size": 38734284,
+   "sha256": "1c6007332ea7adfc8a6c412c4ec789d544cd269f2fef3b4587bf5112dc35b75c",
+   "license": "CC0-1.0 / Public domain (selon l'élément)",
+   "author": "Alex NGASSA",
+   "items": 13
+  },
+  {
+   "id": "musiques-entreprise-voyage",
+   "name": "Musiques – Entreprise, voyage et voix off",
+   "description": "Musiques de présentation, de voyage et fonds calmes à poser sous une voix off.",
+   "version": "1.0.0",
+   "kind": "audio",
+   "tabs": [
+    "audio"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/musiques-entreprise-voyage-1.0.0.zip",
+   "size": 30721009,
+   "sha256": "71b7181112e42f89e311112f7e472899aa7966ab789f115dca28be80c19fd31d",
+   "license": "CC0-1.0 / Public domain (selon l'élément)",
+   "author": "Alex NGASSA",
+   "items": 12
+  },
+  {
+   "id": "sons-ambiances-nature",
+   "name": "Sons – Ambiances de nature et de pluie",
+   "description": "Fonds sonores en stéréo de 30 s : oiseaux, forêt, ruisseau, vagues, pluie et orage.",
+   "version": "1.0.0",
+   "kind": "audio",
+   "tabs": [
+    "audio"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/sons-ambiances-nature-1.0.0.zip",
+   "size": 31936043,
+   "sha256": "c0105c800d8621867b45b99e509f666b0135454ddb07b6aff1bb4ea020d13a13",
+   "license": "CC0-1.0 / Public domain (selon l'élément)",
+   "author": "Alex NGASSA",
+   "items": 7
+  },
+  {
+   "id": "sons-ambiances-ville",
+   "name": "Sons – Ambiances de ville et d'intérieur",
+   "description": "Fonds sonores en stéréo de 30 s : rue, circulation, bureau, marché, café, restaurant.",
+   "version": "1.0.0",
+   "kind": "audio",
+   "tabs": [
+    "audio"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/sons-ambiances-ville-1.0.0.zip",
+   "size": 43939390,
+   "sha256": "e85daa8758dafdf3ebbdc9069d859731ba8ce6b46320fd74b53b8dbb76c5b78f",
+   "license": "CC0-1.0 / Public domain (selon l'élément)",
+   "author": "Alex NGASSA",
+   "items": 9
+  },
+  {
+   "id": "sons-fetes-evenements",
+   "name": "Sons – Fêtes et événements",
+   "description": "Applaudissements, foule, rires, cloches, cloches de mariage, ballons, bouchons et feux d'artifice.",
+   "version": "1.0.0",
+   "kind": "audio",
+   "tabs": [
+    "audio"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/sons-fetes-evenements-1.0.0.zip",
+   "size": 46073701,
+   "sha256": "af6e44f8be4cc4d0f498243204c713112796980479ef95e0cd8a131785ccb2cc",
+   "license": "CC0-1.0 / Public domain (selon l'élément)",
+   "author": "Alex NGASSA",
+   "items": 23
+  },
+  {
+   "id": "sons-humain-comedie-suspense",
+   "name": "Sons – Humain, comédie et suspense",
+   "description": "Pas, battements de cœur, respiration ; effets comiques ; nappes, coups et tic-tac de suspense.",
+   "version": "1.0.0",
+   "kind": "audio",
+   "tabs": [
+    "audio"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/sons-humain-comedie-suspense-1.0.0.zip",
+   "size": 31708253,
+   "sha256": "3d2868e153bfdf9065e0c6921d13ddae8548566b669b6332e4186904ed9a0ba8",
+   "license": "CC0-1.0 / Public domain (selon l'élément)",
+   "author": "Alex NGASSA",
+   "items": 29
+  },
+  {
+   "id": "sons-transitions-interface",
+   "name": "Sons – Transitions et interface",
+   "description": "Whooshs, montées, impacts et glitchs pour les coupes ; clics, pops, notifications et bips pour les écrans.",
+   "version": "1.0.0",
+   "kind": "audio",
+   "tabs": [
+    "audio"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/sons-transitions-interface-1.0.0.zip",
+   "size": 7843244,
+   "sha256": "750da395ac62f1d824523a759743da61df497cbed8973d4b969c02ed70797385",
+   "license": "CC0-1.0",
+   "author": "Alex NGASSA",
+   "items": 38
+  },
+  {
+   "id": "tendances-effets-looks",
+   "name": "Tendances – Effets et looks",
+   "description": "14 effets et looks des vidéos courtes : zooms par paliers et coups de zoom, secousses, glitch RVB, appareil numérique des années 2000, pellicule, sombre et feutré, élégance chaude, bichromie, bandes cinéma…",
+   "version": "1.0.0",
+   "kind": "effects",
+   "tabs": [
+    "effects",
+    "animations"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/tendances-effets-looks-1.0.0.zip",
+   "size": 13647,
+   "sha256": "41570214f6c311d38ada502138ed5b49ac01ae91d868df9d8d4155dc87e70dc1",
+   "license": "CC0-1.0",
+   "author": "Alex NGASSA",
+   "items": 14
+  },
+  {
+   "id": "tendances-rampes-vitesse",
+   "name": "Tendances – Rampes de vitesse",
+   "description": "5 rampes de vitesse des vidéos courtes : vitesse éclair, ralenti dramatique, accélération puis ralenti, montée en puissance, freinage. Le plan garde sa dernière image ; son son reste à vitesse normale.",
+   "version": "1.0.0",
+   "kind": "effects",
+   "tabs": [
+    "effects"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/tendances-rampes-vitesse-1.0.0.zip",
+   "size": 4184,
+   "sha256": "5867d6f1d4bd41ac99b8e0a88384967398b1adcdf6e575a7eeaa43edf9021130",
+   "license": "CC0-1.0",
+   "author": "Alex NGASSA",
+   "items": 5
+  },
+  {
+   "id": "tendances-sons",
+   "name": "Tendances – Sons",
+   "description": "Les sons des vidéos courtes de 2025-2026, fabriqués de zéro : scratch, caisse enregistreuse, rembobinage, montée puis boom, whoosh + impact, boom 808, zoom coup de poing, flash qui se recharge, pops de mots… et quatre musiques originales afro house, amapiano, lo-fi et phonk.",
+   "version": "1.0.0",
+   "kind": "audio",
+   "tabs": [
+    "audio"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/tendances-sons-1.0.0.zip",
+   "size": 13150023,
+   "sha256": "eb94496cdecdc85b7a61d19c29969623fc9ebb6255713880b2cef63b864445da",
+   "license": "CC0-1.0",
+   "author": "Alex NGASSA",
+   "items": 20
+  },
+  {
+   "id": "tendances-styles-sous-titres",
+   "name": "Tendances – Styles de sous-titres",
+   "description": "8 styles pour les sous-titres automatiques : le mot prononcé en couleur (vert, orange, bleu, or), gélule rouge sous le mot, karaoké rose, jaune beurre calme, machine à écrire, accroche en haut. Un double-clic donne le style à toute la piste de sous-titres.",
+   "version": "1.0.0",
+   "kind": "titles",
+   "tabs": [
+    "titles"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/tendances-styles-sous-titres-1.0.0.zip",
+   "size": 5619,
+   "sha256": "90a707e23e14c176a40c9172b05d319025d91689a2d37faa786e80242a3d1dcb",
+   "license": "CC0-1.0",
+   "author": "Alex NGASSA",
+   "items": 8
+  },
+  {
+   "id": "tendances-transitions",
+   "name": "Tendances – Transitions",
+   "description": "13 transitions des vidéos courtes de 2025-2026 : fouetté vertical, zoom coup de poing, rotation éclair, séparation RVB, cassette abîmée, flash éclair, brûlure de pellicule, secousse…",
+   "version": "1.0.0",
+   "kind": "transitions",
+   "tabs": [
+    "transitions"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/tendances-transitions-1.0.0.zip",
+   "size": 5738,
+   "sha256": "06d37bc53e8fd8ffd0751e6701f24e944235dadac0cb509b866da1527629cd46",
+   "license": "CC0-1.0",
+   "author": "Alex NGASSA",
+   "items": 13
+  },
+  {
+   "id": "transitions-eclat",
+   "name": "Transitions Éclat",
+   "description": "26 transitions prêtes : fondus, flashs, lumières, volets, ouvertures, zooms et mouvements.",
+   "version": "1.0.0",
+   "kind": "transitions",
+   "tabs": [
+    "transitions"
+   ],
+   "minAppVersion": "0.7.0",
+   "url": "https://github.com/Axel-sell/cutview-packs/releases/download/packs-1.0.0/transitions-eclat-1.0.0.zip",
+   "size": 10007,
+   "sha256": "fa27c6d26ad6da7533ef93dad30900e4261cb863c2267b6ddd4d4e64d6f037a5",
+   "license": "CC0-1.0",
+   "author": "Alex NGASSA",
+   "items": 26
+  }
+ ]
+}
